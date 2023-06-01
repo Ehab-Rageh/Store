@@ -1,0 +1,252 @@
+C:\Users\Eng Shazly\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Eng Shazly\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Eng Shazly\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Eng Shazly\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\Eng Shazly\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Eng Shazly\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Eng Shazly\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Eng Shazly\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Eng Shazly\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Eng Shazly\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Eng Shazly\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Eng Shazly\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form2.resources
+C:\Users\Eng Shazly\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form3.resources
+C:\Users\Mohamed Ali\Desktop\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Mohamed Ali\Desktop\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Mohamed Ali\Desktop\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Mohamed Ali\Desktop\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\Mohamed Ali\Desktop\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Mohamed Ali\Desktop\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Mohamed Ali\Desktop\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form2.resources
+C:\Users\Mohamed Ali\Desktop\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form3.resources
+C:\Users\Mohamed Ali\Desktop\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form4.resources
+C:\Users\Mohamed Ali\Desktop\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Mohamed Ali\Desktop\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Mohamed Ali\Desktop\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Mohamed Ali\Desktop\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Mohamed Ali\Desktop\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Eng Shazly\Desktop\project\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Eng Shazly\Desktop\project\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Eng Shazly\Desktop\project\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Eng Shazly\Desktop\project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\Eng Shazly\Desktop\project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Eng Shazly\Desktop\project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Eng Shazly\Desktop\project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form2.resources
+C:\Users\Eng Shazly\Desktop\project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form3.resources
+C:\Users\Eng Shazly\Desktop\project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form4.resources
+C:\Users\Eng Shazly\Desktop\project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form5.resources
+C:\Users\Eng Shazly\Desktop\project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form6.resources
+C:\Users\Eng Shazly\Desktop\project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Eng Shazly\Desktop\project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Eng Shazly\Desktop\project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Eng Shazly\Desktop\project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Eng Shazly\Desktop\project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Eng Shazly\Desktop\project2\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Eng Shazly\Desktop\project2\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Eng Shazly\Desktop\project2\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Eng Shazly\Desktop\project2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\Eng Shazly\Desktop\project2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Eng Shazly\Desktop\project2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Eng Shazly\Desktop\project2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form2.resources
+C:\Users\Eng Shazly\Desktop\project2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form3.resources
+C:\Users\Eng Shazly\Desktop\project2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form4.resources
+C:\Users\Eng Shazly\Desktop\project2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form5.resources
+C:\Users\Eng Shazly\Desktop\project2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form6.resources
+C:\Users\Eng Shazly\Desktop\project2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Eng Shazly\Desktop\project2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Eng Shazly\Desktop\project2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Eng Shazly\Desktop\project2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Eng Shazly\Desktop\project2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Mohamed Ali\Desktop\project22\project22\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Mohamed Ali\Desktop\project22\project22\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Mohamed Ali\Desktop\project22\project22\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Mohamed Ali\Desktop\project22\project22\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\Mohamed Ali\Desktop\project22\project22\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Mohamed Ali\Desktop\project22\project22\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Mohamed Ali\Desktop\project22\project22\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form2.resources
+C:\Users\Mohamed Ali\Desktop\project22\project22\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form3.resources
+C:\Users\Mohamed Ali\Desktop\project22\project22\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form4.resources
+C:\Users\Mohamed Ali\Desktop\project22\project22\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form5.resources
+C:\Users\Mohamed Ali\Desktop\project22\project22\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form6.resources
+C:\Users\Mohamed Ali\Desktop\project22\project22\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form7.resources
+C:\Users\Mohamed Ali\Desktop\project22\project22\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Mohamed Ali\Desktop\project22\project22\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Mohamed Ali\Desktop\project22\project22\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Mohamed Ali\Desktop\project22\project22\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Mohamed Ali\Desktop\project22\project22\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Eng Shazly\Desktop\project22\project22\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Eng Shazly\Desktop\project22\project22\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Eng Shazly\Desktop\project22\project22\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Eng Shazly\Desktop\project22\project22\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\Eng Shazly\Desktop\project22\project22\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Eng Shazly\Desktop\project22\project22\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Eng Shazly\Desktop\project22\project22\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form2.resources
+C:\Users\Eng Shazly\Desktop\project22\project22\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form3.resources
+C:\Users\Eng Shazly\Desktop\project22\project22\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form4.resources
+C:\Users\Eng Shazly\Desktop\project22\project22\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form5.resources
+C:\Users\Eng Shazly\Desktop\project22\project22\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form6.resources
+C:\Users\Eng Shazly\Desktop\project22\project22\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form7.resources
+C:\Users\Eng Shazly\Desktop\project22\project22\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Eng Shazly\Desktop\project22\project22\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Eng Shazly\Desktop\project22\project22\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Eng Shazly\Desktop\project22\project22\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Eng Shazly\Desktop\project22\project22\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Eng Shazly\Desktop\project22\project22\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form8.resources
+C:\Users\Eng Shazly\Desktop\project22\project22\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form9.resources
+C:\Users\Mohamed Ali\Downloads\Telegram Desktop\project22\project22\project22\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Mohamed Ali\Downloads\Telegram Desktop\project22\project22\project22\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Mohamed Ali\Downloads\Telegram Desktop\project22\project22\project22\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Mohamed Ali\Downloads\Telegram Desktop\project22\project22\project22\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\Mohamed Ali\Downloads\Telegram Desktop\project22\project22\project22\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Mohamed Ali\Downloads\Telegram Desktop\project22\project22\project22\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Mohamed Ali\Downloads\Telegram Desktop\project22\project22\project22\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form2.resources
+C:\Users\Mohamed Ali\Downloads\Telegram Desktop\project22\project22\project22\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form3.resources
+C:\Users\Mohamed Ali\Downloads\Telegram Desktop\project22\project22\project22\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form4.resources
+C:\Users\Mohamed Ali\Downloads\Telegram Desktop\project22\project22\project22\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form5.resources
+C:\Users\Mohamed Ali\Downloads\Telegram Desktop\project22\project22\project22\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form6.resources
+C:\Users\Mohamed Ali\Downloads\Telegram Desktop\project22\project22\project22\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form7.resources
+C:\Users\Mohamed Ali\Downloads\Telegram Desktop\project22\project22\project22\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form8.resources
+C:\Users\Mohamed Ali\Downloads\Telegram Desktop\project22\project22\project22\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form9.resources
+C:\Users\Mohamed Ali\Downloads\Telegram Desktop\project22\project22\project22\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Mohamed Ali\Downloads\Telegram Desktop\project22\project22\project22\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Mohamed Ali\Downloads\Telegram Desktop\project22\project22\project22\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Mohamed Ali\Downloads\Telegram Desktop\project22\project22\project22\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Mohamed Ali\Downloads\Telegram Desktop\project22\project22\project22\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+D:\New folder (2)\project22\project22\project22\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\New folder (2)\project22\project22\project22\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\New folder (2)\project22\project22\project22\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\New folder (2)\project22\project22\project22\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+D:\New folder (2)\project22\project22\project22\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+D:\New folder (2)\project22\project22\project22\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+D:\New folder (2)\project22\project22\project22\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form2.resources
+D:\New folder (2)\project22\project22\project22\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form3.resources
+D:\New folder (2)\project22\project22\project22\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form4.resources
+D:\New folder (2)\project22\project22\project22\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form5.resources
+D:\New folder (2)\project22\project22\project22\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form6.resources
+D:\New folder (2)\project22\project22\project22\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form7.resources
+D:\New folder (2)\project22\project22\project22\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form8.resources
+D:\New folder (2)\project22\project22\project22\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form9.resources
+D:\New folder (2)\project22\project22\project22\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\New folder (2)\project22\project22\project22\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\New folder (2)\project22\project22\project22\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\New folder (2)\project22\project22\project22\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\New folder (2)\project22\project22\project22\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+D:\New folder (2)\project22\project22\project22\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form10.resources
+D:\New folder (2)\project22\project22\project22\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form11.resources
+D:\New folder (2)\project22\project22\project22\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form12.resources
+D:\STORE.GUI   C#\project22\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\STORE.GUI   C#\project22\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\STORE.GUI   C#\project22\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\STORE.GUI   C#\project22\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+D:\STORE.GUI   C#\project22\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+D:\STORE.GUI   C#\project22\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form10.resources
+D:\STORE.GUI   C#\project22\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form11.resources
+D:\STORE.GUI   C#\project22\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form12.resources
+D:\STORE.GUI   C#\project22\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form2.resources
+D:\STORE.GUI   C#\project22\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form3.resources
+D:\STORE.GUI   C#\project22\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form4.resources
+D:\STORE.GUI   C#\project22\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form5.resources
+D:\STORE.GUI   C#\project22\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form6.resources
+D:\STORE.GUI   C#\project22\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form7.resources
+D:\STORE.GUI   C#\project22\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form8.resources
+D:\STORE.GUI   C#\project22\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form9.resources
+D:\STORE.GUI   C#\project22\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\STORE.GUI   C#\project22\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\STORE.GUI   C#\project22\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\STORE.GUI   C#\project22\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\STORE.GUI   C#\project22\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+D:\STORE.GUI   C#\project22\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form13.resources
+D:\STORE.GUI   C#\project22\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form14.resources
+D:\STORE.GUI   C#\project22\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form15.resources
+D:\STORE.GUI   C#\project22\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form16.resources
+C:\Users\Eng Shazly\Desktop\STORE.GUI   C#\project22\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Eng Shazly\Desktop\STORE.GUI   C#\project22\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Eng Shazly\Desktop\STORE.GUI   C#\project22\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Eng Shazly\Desktop\STORE.GUI   C#\project22\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\Eng Shazly\Desktop\STORE.GUI   C#\project22\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Eng Shazly\Desktop\STORE.GUI   C#\project22\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Eng Shazly\Desktop\STORE.GUI   C#\project22\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form10.resources
+C:\Users\Eng Shazly\Desktop\STORE.GUI   C#\project22\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form11.resources
+C:\Users\Eng Shazly\Desktop\STORE.GUI   C#\project22\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form12.resources
+C:\Users\Eng Shazly\Desktop\STORE.GUI   C#\project22\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form13.resources
+C:\Users\Eng Shazly\Desktop\STORE.GUI   C#\project22\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form14.resources
+C:\Users\Eng Shazly\Desktop\STORE.GUI   C#\project22\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form15.resources
+C:\Users\Eng Shazly\Desktop\STORE.GUI   C#\project22\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form16.resources
+C:\Users\Eng Shazly\Desktop\STORE.GUI   C#\project22\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form2.resources
+C:\Users\Eng Shazly\Desktop\STORE.GUI   C#\project22\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form3.resources
+C:\Users\Eng Shazly\Desktop\STORE.GUI   C#\project22\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form4.resources
+C:\Users\Eng Shazly\Desktop\STORE.GUI   C#\project22\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form5.resources
+C:\Users\Eng Shazly\Desktop\STORE.GUI   C#\project22\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form6.resources
+C:\Users\Eng Shazly\Desktop\STORE.GUI   C#\project22\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form7.resources
+C:\Users\Eng Shazly\Desktop\STORE.GUI   C#\project22\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form8.resources
+C:\Users\Eng Shazly\Desktop\STORE.GUI   C#\project22\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form9.resources
+C:\Users\Eng Shazly\Desktop\STORE.GUI   C#\project22\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Eng Shazly\Desktop\STORE.GUI   C#\project22\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Eng Shazly\Desktop\STORE.GUI   C#\project22\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Eng Shazly\Desktop\STORE.GUI   C#\project22\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Eng Shazly\Desktop\STORE.GUI   C#\project22\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Eng Shazly\Desktop\STORE.GUI   C#\project22\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form17.resources
+C:\Users\Eng Shazly\Desktop\STORE.GUI   C#\project22\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form18.resources
+C:\Users\Eng Shazly\Desktop\STORE.GUI   C#\project22\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form19.resources
+C:\Users\Administrator\Desktop\STORE.GUI   C#\project22\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Administrator\Desktop\STORE.GUI   C#\project22\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Administrator\Desktop\STORE.GUI   C#\project22\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Administrator\Desktop\STORE.GUI   C#\project22\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\STORE.GUI   C#\project22\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Administrator\Desktop\STORE.GUI   C#\project22\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Administrator\Desktop\STORE.GUI   C#\project22\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form10.resources
+C:\Users\Administrator\Desktop\STORE.GUI   C#\project22\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form11.resources
+C:\Users\Administrator\Desktop\STORE.GUI   C#\project22\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form12.resources
+C:\Users\Administrator\Desktop\STORE.GUI   C#\project22\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form13.resources
+C:\Users\Administrator\Desktop\STORE.GUI   C#\project22\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form14.resources
+C:\Users\Administrator\Desktop\STORE.GUI   C#\project22\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form15.resources
+C:\Users\Administrator\Desktop\STORE.GUI   C#\project22\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form16.resources
+C:\Users\Administrator\Desktop\STORE.GUI   C#\project22\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form17.resources
+C:\Users\Administrator\Desktop\STORE.GUI   C#\project22\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form18.resources
+C:\Users\Administrator\Desktop\STORE.GUI   C#\project22\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form19.resources
+C:\Users\Administrator\Desktop\STORE.GUI   C#\project22\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form2.resources
+C:\Users\Administrator\Desktop\STORE.GUI   C#\project22\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form20.resources
+C:\Users\Administrator\Desktop\STORE.GUI   C#\project22\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form21.resources
+C:\Users\Administrator\Desktop\STORE.GUI   C#\project22\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form3.resources
+C:\Users\Administrator\Desktop\STORE.GUI   C#\project22\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form4.resources
+C:\Users\Administrator\Desktop\STORE.GUI   C#\project22\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form5.resources
+C:\Users\Administrator\Desktop\STORE.GUI   C#\project22\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form6.resources
+C:\Users\Administrator\Desktop\STORE.GUI   C#\project22\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form7.resources
+C:\Users\Administrator\Desktop\STORE.GUI   C#\project22\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form8.resources
+C:\Users\Administrator\Desktop\STORE.GUI   C#\project22\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form9.resources
+C:\Users\Administrator\Desktop\STORE.GUI   C#\project22\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Administrator\Desktop\STORE.GUI   C#\project22\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\STORE.GUI   C#\project22\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\STORE.GUI   C#\project22\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Administrator\Desktop\STORE.GUI   C#\project22\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+D:\vs codes\STORE.GUI   C#\project22\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\vs codes\STORE.GUI   C#\project22\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\vs codes\STORE.GUI   C#\project22\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\vs codes\STORE.GUI   C#\project22\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+D:\vs codes\STORE.GUI   C#\project22\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+D:\vs codes\STORE.GUI   C#\project22\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+D:\vs codes\STORE.GUI   C#\project22\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form10.resources
+D:\vs codes\STORE.GUI   C#\project22\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form11.resources
+D:\vs codes\STORE.GUI   C#\project22\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form12.resources
+D:\vs codes\STORE.GUI   C#\project22\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form13.resources
+D:\vs codes\STORE.GUI   C#\project22\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form14.resources
+D:\vs codes\STORE.GUI   C#\project22\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form15.resources
+D:\vs codes\STORE.GUI   C#\project22\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form16.resources
+D:\vs codes\STORE.GUI   C#\project22\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form17.resources
+D:\vs codes\STORE.GUI   C#\project22\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form18.resources
+D:\vs codes\STORE.GUI   C#\project22\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form19.resources
+D:\vs codes\STORE.GUI   C#\project22\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form2.resources
+D:\vs codes\STORE.GUI   C#\project22\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form20.resources
+D:\vs codes\STORE.GUI   C#\project22\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form21.resources
+D:\vs codes\STORE.GUI   C#\project22\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form3.resources
+D:\vs codes\STORE.GUI   C#\project22\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form4.resources
+D:\vs codes\STORE.GUI   C#\project22\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form6.resources
+D:\vs codes\STORE.GUI   C#\project22\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form7.resources
+D:\vs codes\STORE.GUI   C#\project22\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form8.resources
+D:\vs codes\STORE.GUI   C#\project22\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form9.resources
+D:\vs codes\STORE.GUI   C#\project22\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\vs codes\STORE.GUI   C#\project22\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\vs codes\STORE.GUI   C#\project22\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\vs codes\STORE.GUI   C#\project22\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\vs codes\STORE.GUI   C#\project22\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+D:\vs codes\STORE.GUI   C#\project22\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.watches.resources
